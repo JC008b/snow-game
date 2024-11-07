@@ -1,0 +1,15 @@
+.App {
+  position: relative;
+  height: 100vh;
+  background-color: lightblue;
+}
+
+.player {
+  position: absolute;
+}
+
+.snow-item {
+  position: absolute;
+  background-color: white;
+  border-radius: 50%;
+}
